@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\C# lectures\001_console\bin\Debug\net7.0\001_console.exe
+C:\Users\Asus\Desktop\C# lectures\001_console\bin\Debug\net7.0\001_console.deps.json
+C:\Users\Asus\Desktop\C# lectures\001_console\bin\Debug\net7.0\001_console.runtimeconfig.json
+C:\Users\Asus\Desktop\C# lectures\001_console\bin\Debug\net7.0\001_console.dll
+C:\Users\Asus\Desktop\C# lectures\001_console\bin\Debug\net7.0\001_console.pdb
+C:\Users\Asus\Desktop\C# lectures\001_console\obj\Debug\net7.0\001_console.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\C# lectures\001_console\obj\Debug\net7.0\001_console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\C# lectures\001_console\obj\Debug\net7.0\001_console.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\C# lectures\001_console\obj\Debug\net7.0\001_console.AssemblyInfo.cs
+C:\Users\Asus\Desktop\C# lectures\001_console\obj\Debug\net7.0\001_console.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\C# lectures\001_console\obj\Debug\net7.0\001_console.dll
+C:\Users\Asus\Desktop\C# lectures\001_console\obj\Debug\net7.0\refint\001_console.dll
+C:\Users\Asus\Desktop\C# lectures\001_console\obj\Debug\net7.0\001_console.pdb
+C:\Users\Asus\Desktop\C# lectures\001_console\obj\Debug\net7.0\001_console.genruntimeconfig.cache
+C:\Users\Asus\Desktop\C# lectures\001_console\obj\Debug\net7.0\ref\001_console.dll
